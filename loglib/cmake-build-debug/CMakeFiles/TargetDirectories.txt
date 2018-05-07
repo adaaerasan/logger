@@ -1,0 +1,3 @@
+/Users/vipkid/CLionProjects/loglib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vipkid/CLionProjects/loglib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vipkid/CLionProjects/loglib/cmake-build-debug/CMakeFiles/loglib.dir
